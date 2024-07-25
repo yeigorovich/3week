@@ -1,2 +1,2 @@
-# 3week
-made by Yegor
+# 3-nedilyaPraktik
+3 nedilya
